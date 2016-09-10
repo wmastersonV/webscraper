@@ -1,1 +1,1 @@
-# webscraper
+# Parses comments and campaign names
